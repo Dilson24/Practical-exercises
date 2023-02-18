@@ -1,6 +1,6 @@
 //Algoritmo que sólo permita el ingreso de un número, al final mostrarlo como negativo
 
-Proceso Punto26
+Proceso exercise
 	Definir num,conv Como Entero;
 	num<-0;
 	conv<-0;

@@ -1,4 +1,4 @@
-//Algoritmo pasa identificar que un número  ingresado es primo
+//Algoritmo para identificar que un número  ingresado es primo
 Algoritmo Primo_no_primo
 	
 	Escribir "Digite un numero"

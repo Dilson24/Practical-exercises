@@ -1,5 +1,5 @@
 //Algoritmo patron pares negativos, impares positivos
-Algoritmo sin_titulo
+Algoritmo Patron_de_números
 	suma=0
 	suma1= 0
 	

@@ -1,4 +1,4 @@
-//Algoritmo que sólo permita el ingreso de un número al final mostrarlo como positivo
+//Algoritmo que sÃ³lo permita el ingreso de un nÃºmero al final mostrarlo como positivo
 
 Proceso Punto26
 	Definir num,conv Como Entero;

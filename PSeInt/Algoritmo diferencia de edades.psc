@@ -11,11 +11,11 @@ Algoritmo Edades
 	//controlar que sea valido para convertir
 	Si (E1 > E2) Entonces
 		Dif= E2 - E1
-		Escribir "El 1er hermano tiene: ", E1  ,    "Y es mayor por: ", Dif, "Años"
+		Escribir "El 1er hermano tiene: ", " ", E1  ," Y es mayor por: ", Dif, "", " Años"
 	FinSi
 	Si (E2 > E1) Entonces
 		Dif = E2 - E1 
-		Escribir "El 2do hermano tiene: ", E2  ,    "Y es mayor por: ", Dif, "Años"
+		Escribir "El 2do hermano tiene: ", " ", E2  ," Y es mayor por: ", Dif, "", " Años"
 	FinSi
 	
 FinAlgoritmo

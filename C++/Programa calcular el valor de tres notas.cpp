@@ -22,7 +22,7 @@ int main(){
 
 	nota_final  = practica + teorica + participacion; 
 	 
-	cout<<"\nEL nota final es: "<<nota_final;
+	cout<<"\nLa nota final es: "<<nota_final;
 	
 	
 	return 0;

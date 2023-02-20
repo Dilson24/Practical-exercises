@@ -1,4 +1,4 @@
-//Lectura o entrada de datos
+//Lectura o entrada de datos 
 
 #include<iostream>
 

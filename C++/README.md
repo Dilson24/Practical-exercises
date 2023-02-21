@@ -15,11 +15,11 @@ A continuación dejaré una breve explicación de algunos ejercicios.
 
 > Ejercicio número dos del proyecto Euler, donde nos pide sumar los dígitos pares de la serie Fibonacci.
 
-[Suma de los digitos pares de fibonacci_1]. El programa hace una verificación con el condicional _if_ para identificar si es par, luego hace la suma.
+- [Suma de los digitos pares de fibonacci_1]. El programa hace una verificación con el condicional _if_ para identificar si es par, luego hace la suma.
 
-[Suma de los digitos pares de fibonacci_2]. El programa nota que cada tercer termino de _Fibonacci_ es par, por lo tanto solo suma los terceros términos.
+- [Suma de los digitos pares de fibonacci_2]. El programa nota que cada tercer termino de _Fibonacci_ es par, por lo tanto solo suma los terceros términos.
 
-[Suma de los digitos pares de fibonacci_3]. El programa nota que los números pares de _Fibonacci_ resultan en otra serie que también responde a una función recursiva por lo que aplica la recursión para solucionar el problema, a pesar de que el tiempo computacional es exponencial (es decir ocupa más capacidad de procesamiento) es elegante y ayuda a explicar matemáticamente el problema.
+- [Suma de los digitos pares de fibonacci_3]. El programa nota que los números pares de _Fibonacci_ resultan en otra serie que también responde a una función recursiva por lo que aplica la recursión para solucionar el problema, a pesar de que el tiempo computacional es exponencial (es decir ocupa más capacidad de procesamiento) es elegante y ayuda a explicar matemáticamente el problema.
 
 ## License
 

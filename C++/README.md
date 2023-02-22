@@ -1,4 +1,4 @@
-# C++
+﻿# C++
 ## _Ejercicios básicos en C++ que realice en mi etapa de estudiante para el tecnólogo ADSI para comprender un poco la lógica de la programación._
 
 C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C y añadir mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
@@ -12,6 +12,7 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 - Constructores.
 - Herencia.
 - Programación orientada a objetos (POO).
+- Matrices.
 ## Explicación de ejercicios
 A continuación dejaré una breve explicación de algunos ejercicios.
 

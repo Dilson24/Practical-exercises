@@ -8,8 +8,10 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 - Tipos de datos.
 - Variables.
 - Ciclos.
+- Condicionales. 
 - Constructores.
-- Programación orientada a objetos.
+- Herencia.
+- Programación orientada a objetos (POO).
 ## Explicación de ejercicios
 A continuación dejaré una breve explicación de algunos ejercicios.
 
